@@ -1,33 +1,35 @@
-## Introduction
-    - How this Course Will Work
-    - Introduction to Web Development
-    - Motivation and Mindset
-    - Asking For Help
-    - Join the petaVerse Community
+## Intermediate HTML Concepts
+    - Introduction
+    - Emmet
+    - SVG
+    - Tables
 
-## Prerequisites
-    - Computer Basics
-    - How Does the Web Work?
-    - Installation Overview
-    - Installations
-    - Text Editors
-    - Command Line Basics
-    - Setting Up Git
+## Intermediate CSS Concepts
+    - Default Styles
+    - CSS Units
+    - More Text Styles
+    - More CSS Properties
+    - Advanced Selectors
+    - Positioning
+    - CSS Functions
+    - Custom Properties
+    - Browser Compatibility
+    - Frameworks and Preprocessors
 
 
-## Git Basics
-    - Introduction to Git
-    - Git Basics
+## Forms
+    - Form Basics
+    - Form Validation
+    - Project: Sign-up Form
 
-## HTML Foundations
-    - Introduction to HTML and CSS
-    - Elements and Tags
-    - HTML Boilerplate
-    - Working with Text
-    - Lists
-    - Links and Images
-    - Commit Messages
-    - Project: Recipes
+## Grid
+    - Introduction to Grid
+    - Creating a Grid
+    - Positioning Grid Elements
+    - Advanced Grid Properties
+    - Using Flexbox and Grid
+    - Project: Admin Dashboard
+
 
 ## CSS Foundations
     - CSS Foundations
