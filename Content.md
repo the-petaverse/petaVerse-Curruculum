@@ -1,20 +1,24 @@
-### Ruby on Rails
+### Getting Hired
 ## Overview
-Take Ruby to the next level with the Ruby on Rails framework! Learn how to fully craft your site's backend using the Model-View-Controller design pattern. You'll gain the confidence to launch a website in under an hour.
+Web development is a lifelong journey of learning and growth. Continue that journey on a professional development team! You'll learn where to find jobs, how to do great interviews, and the best strategies to launch your career.
 
-## Introduction
-    - How this Course Will Work
-    - Preparing for Deployment
-    - Project: Installing Rails
-    - A Railsy Web Refresher
+## Preparing for Your Job Search
+    - How This Course Will Work
+    - Strategy
+    - It Starts with YOU
+    - What Companies Want
+    - What You Can Do To Prepare
+    - Project: Building Your Personal Website
 
 
-## Rails Basics
-    - Routing
-    - Controllers
-    - Views
-    - Deployment
-    - Project: Blog App
+## Applying to and Interviewing for Jobs
+    - Collecting Job Leads
+    - Qualifying Job Leads
+    - Project: Building Your Resume
+    - Applying for Web Development Jobs
+    - Preparing to Interview and Interviewing
+    - Handling a Job Offer
+    - Conclusion
 
 
 ## Active Record Basics
